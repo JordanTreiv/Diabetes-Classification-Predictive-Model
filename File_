@@ -1,0 +1,46 @@
+{
+ "cells": [j
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "ERROR",
+     "evalue": "Error in eval(expr, envir, enclos): object 'Hello' not found\n",
+     "output_type": "error",
+     "traceback": [
+      "Error in eval(expr, envir, enclos): object 'Hello' not found\nTraceback:\n"
+     ]
+    }
+   ],
+   "source": [
+    "Hello "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "R",
+   "language": "R",
+   "name": "ir"
+  },
+  "language_info": {
+   "codemirror_mode": "r",
+   "file_extension": ".r",
+   "mimetype": "text/x-r-source",
+   "name": "R",
+   "pygments_lexer": "r",
+   "version": "4.0.0"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
